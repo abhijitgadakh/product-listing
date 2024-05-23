@@ -1,5 +1,8 @@
 The "Product Listings" project is a web application aimed at showcasing a variety of products, primarily focusing on men's and women's clothing and electronic items. It provides users with an intuitive interface to browse through different product categories, view product details, and apply sorting options based on price and popularity.
 
+![Alt Text](./web-temp.ong)
+
+
 # Key Features:
 
 Dynamic Rendering: Utilizes JavaScript to dynamically render product cards based on provided data.
